@@ -1,0 +1,7 @@
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\bin\Debug\EmotionalTest0.exe.config
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\bin\Debug\EmotionalTest0.exe
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\bin\Debug\EmotionalTest0.pdb
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\obj\Debug\EmotionalTest0.csprojResolveAssemblyReference.cache
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\obj\Debug\EmotionalTest0.csproj.CoreCompileInputs.cache
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\obj\Debug\EmotionalTest0.exe
+C:\Users\Matt Timmermans\source\repos\EmotionalTest0\EmotionalTest0\obj\Debug\EmotionalTest0.pdb
